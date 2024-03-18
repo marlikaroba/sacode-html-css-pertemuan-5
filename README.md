@@ -4,7 +4,7 @@
 
 Git-Init: Digunakan untuk membuat repository yang ada pada file lokal dan berlokasi di folder .git. 
 ```
-git init
+git clone <repotitory.git url>
 ```
 
 Git Status: Digunakan untuk mengecek status repository lokal. 
